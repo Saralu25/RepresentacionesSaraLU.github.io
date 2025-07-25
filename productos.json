@@ -1,12 +1,12 @@
 [
     {
         "nombre": "Anillo de Plata",
-        "precio": 45000,
+        "precio": "Descripcion",
         "imagen": "img/anillo-plata.jpg"
     },
     {
         "nombre": "Perfume Floral",
-        "precio": 60000,
+        "precio": "Descripcion",
         "imagen": "img/perfume-floral.jpg"
     }
 ]
